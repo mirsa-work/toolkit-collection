@@ -34,14 +34,14 @@ pip install pdfx tqdm
 
 ### Directory Structure
 
-Ensure your PDFs are stored in a directory named `files` within the same directory as the script:
+Ensure your PDFs are stored in a directory named `input` within the same directory as the script:
 
 ```
 toolkit-collection/
 └── python-scripts/
     └── pdf-extract-urls/
         ├── pdf_extract_urls.py
-        └── files/
+        └── input/
             ├── your-pdf-file-1.pdf
             ├── your-pdf-file-2.pdf
             └── ...
@@ -49,7 +49,7 @@ toolkit-collection/
 
 ## Usage
 
-1. Place your PDF files in the `files` directory.
+1. Place your PDF files in the `input` directory.
 2. Run the script:
 
    ```bash
@@ -88,7 +88,7 @@ The script generates the following CSV files:
 ## Troubleshooting
 
 - If a PDF file fails to process, the script will log the file name and print the error details.
-- Ensure that the `files` directory contains only PDF files.
+- Ensure that the `input` directory contains only PDF files.
 
 ## License
 
