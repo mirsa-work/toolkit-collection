@@ -92,7 +92,7 @@ The script generates the following CSV files:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ## Contributions
 

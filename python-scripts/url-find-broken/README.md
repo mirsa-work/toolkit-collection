@@ -72,7 +72,7 @@ The script generates CSV files based on the HTTP response codes of the URLs:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ## Contributions
 
